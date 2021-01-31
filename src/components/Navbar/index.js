@@ -1,6 +1,5 @@
 import React from "react";
 import { Link } from "react-router-dom";
-// import "./style.css";
 
 const styles = {
   navApp: {
@@ -8,7 +7,8 @@ const styles = {
     color: "white",
     fontSize: "20px",
     padding: "20px",
-    borderBottom: "7px rgb(247, 39, 184)"
+    borderBottom: "7px rgb(247, 39, 184)",
+    marginBottom: "0"
   },
   
   whiteFont: {
@@ -23,7 +23,7 @@ function Navbar() {
       <nav className="navbar">
         <div className="col-md-1"></div>
         <div className="col-md-3">
-          <span id="name" className="navbar-brand mb-0 h1">BRIAN CARDINES</span>
+          <span className="navbar-brand mb-0 h1">BRIAN CARDINES</span>
         </div>
         <div className="col-md-3">
         </div>
