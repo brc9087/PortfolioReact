@@ -38,12 +38,12 @@ const Contact = () => {
                             </div>
                             <div className="col-md-4">
                             </div>
-                            </div>
-
                         </div>
+
                     </div>
                 </div>
             </div>
+        </div>
     )
 }
 export default Contact

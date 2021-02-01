@@ -13,7 +13,7 @@ const styles = {
     pic: {
         height: "20%",
         width: "20%"
-    }, 
+    },
     text: {
         fontSize: "20px"
     }
@@ -41,7 +41,7 @@ const mainPage = () => {
                                 but I'm a true nerd / tech geek at heart! I am always interestered in the newest gadget I am
                                     aspiring to be a full stack web developer, anticipating graduation this year March 2021 from Rutgers Coding Bootcamp</p>
                                 <ul>Quick Facts
-                                        <li>Favorite Team: NY Knicks </li>
+                                    <li>Favorite Team: NY Knicks </li>
                                     <li>Favorite Hobbies: basketball, Mountain Biking, Snowboarding</li>
                                     <li>Favorite phone brand: Motorola</li>
                                     <li>Im anti MAC, Windows for Life!</li>
@@ -51,12 +51,12 @@ const mainPage = () => {
                                 my life in New Jersey where I attended kindergarden to high school, eventually graduating from Mountainside School of Nursing 2009.
                                 I have been employed as an RN since then but have always had an itch to learn about computers and technology in general.
                                 I have always taken initiative to be the SuperUser for any new computer documentation systems / technologies released.
-                                    </p>
+                                </p>
                                 <br />
                                 <p>I would love to begin my new story as a full stack web developer. Healthcare and technologies have infinite possibilities
                                 and it would be amazing to be a part of the growth with existing technologies and discovery of new ones. I have a vast knowledge
                                 of the medical field that I would love to integrate with technology.
-                                    </p>
+                                </p>
                             </div>
                         </div>
 
