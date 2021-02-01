@@ -1,7 +1,5 @@
 import React from "react";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
-// import Signup from "./pages/Signup";
-// import Search from "./pages/Search";
 import About from "./pages/About/index"
 import Portfolio from "./pages/Portfolio/index"
 import Contact from "./pages/Contact/index"
@@ -14,7 +12,6 @@ import "./App.css";
 function App() {
   return (
     <Router>
-      <div>
         <Navbar />
         <Wrapper>
           <Switch>
@@ -25,7 +22,6 @@ function App() {
           </Switch>
         </Wrapper>
         <Footer />
-      </div>
     </Router>
   );
 }
