@@ -1,6 +1,6 @@
 import React from "react";
-import "./style.css";
-import { Link } from "react-router-dom";
+// import "./style.css";
+// import { Link } from "react-router-dom";
 
 const styles = {
   foot: {
@@ -8,7 +8,7 @@ const styles = {
     left: "0",
     bottom: "0",
     width: "100%",
-    backgroundColor: "yellow",
+    backgroundColor: "red",
     color: "white",
     textAlign: "center"
   }, 
