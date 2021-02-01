@@ -6,18 +6,18 @@
 * Click the link to check out my profile! ==> 
 
 ## About Page
-* ![](./src/images/aboutpage.PNG =250x250 )
+* ![](./src/images/aboutpage.PNG )
 
 <br>
 
 ## Portfolio Page
-* ![](./src/images/portfolio.PNG =250x250 )
+* ![](./src/images/portfolio.PNG)
 
 <br>
     
     
 ## Contact Page
-*  ![](./src/images/contact.PNG=250x250 )
+*  ![](./src/images/contact.PNG)
 
 <br>
 
