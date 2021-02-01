@@ -3,7 +3,7 @@
 * This is a personal portfolio create using React. 
 
 ## Usage / Directions
-* Click the link to check out my profile! ==> https://brc9087.github.io/About
+* Click the link to check out my profile! ==> https://brc9087.github.io/portfolioreact/
 
 ## About Page
 * ![](./src/images/aboutpage.PNG )
@@ -31,5 +31,5 @@
 * images
 
 ## Links
-* APP: https://brc9087.github.io/About
+* APP: https://brc9087.github.io/portfolioreact/
 * REPO: https://github.com/brc9087/portfolioreact
