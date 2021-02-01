@@ -107,21 +107,9 @@ const portfolio = () => {
                                 <p className="card-text">NOTETAKER APP</p>
                                 <p id="repo"><a href="https://github.com/brc9087/NoteTaker"
                                 >* Notetaker App Repo</a></p>
-
                             </div>
                         </div>
                         <br></br>
-                        <div className="gitProfile">
-                            <p>GitHub Profile: <a href="https://github.com/brc9087">
-                                https://github.com/brc9087</a> </p>
-                            <p>Linkedin Profile: <a href="https://www.linkedin.com/feed/"
-                            >Linkedin Profile</a></p>
-                            <p>Email Address: bcardines811@gmail.com</p>
-                            <p>Phone Number:908-405-9820</p>
-                            <a href="https://github.com/Ana199816/homework-16/blob/master/assets/resume/resume.pdf"
-                            > Resume</a>
-
-                        </div>
                     </div>
 
                 </div>
