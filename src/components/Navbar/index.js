@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 const styles = {
   navApp: {
-    backgroundColor: "blue",
+    backgroundColor: "navy",
     color: "white",
     fontSize: "20px",
     padding: "20px",

@@ -14,8 +14,8 @@ const styles = {
   }, 
   footText: {
     textAlign: "center",
-    fontSize: "15px",
-    color: "black"
+    fontSize: "20px",
+    color: "white"
   }
 }
 

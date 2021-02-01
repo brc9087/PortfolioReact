@@ -5,8 +5,8 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 const styles = {
   wrap: {
     minHeight: "100%",
-    paddingBottom: "100px",
-    backgroundColor: "yellow"
+    paddingBottom: "100%",
+    backgroundColor: "gold"
   }
 }
 
