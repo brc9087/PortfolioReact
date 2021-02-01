@@ -17,7 +17,7 @@
     
     
 ## Contact Page
-*  ![](./src/images/contact.PNG =250x250 )
+*  ![](./src/images/contact.PNG=250x250 )
 
 <br>
 
