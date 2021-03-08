@@ -18,9 +18,9 @@ const Contact = () => {
             <div className="container">
                 <div style={styles.contact} className="contactApp">
                     <div style={styles.contact} className="gitProfile">
-                        <p>GitHub Profile: <a href="https://github.com/brc9087">
+                        <p>GitHub Profile: <a target="_blank" rel="noreferrer" href="https://github.com/brc9087">
                             https://github.com/brc9087</a> </p>
-                        <p>Linkedin Profile: <a href="https://www.linkedin.com/feed/"
+                        <p>Linkedin Profile: <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/feed/"
                         >Linkedin Profile</a></p>
                         <p>Email Address: bcardines8@gmail.com</p>
                         <p>Phone Number:908-405-9820</p>
@@ -31,7 +31,7 @@ const Contact = () => {
                             </div>
                             <div style={styles.contact} className="col-md-4">
                                 <h2 style={styles.contact}>RESUME</h2>
-                                <a href={resume}>
+                                <a target="_blank" rel="noreferrer" href={resume}>
                                     <img src={resumepic}
                                         className="card-img-top" alt="img-one" />
                                 </a>

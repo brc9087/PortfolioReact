@@ -30,23 +30,23 @@ const portfolio = () => {
                             </div>
 
                             <div className="col-md-3">
-                                <a href="https://boiling-cliffs-25283.herokuapp.com/">
+                                <a target="_blank" rel="noreferrer" href="https://boiling-cliffs-25283.herokuapp.com/">
                                     <img src={workout}
                                         className="card-img-top" alt="img-one" />
                                 </a>
                                 <p className="card-text">WORKOUT TRACKER</p>
-                                <p id="repo"><a href="https://github.com/brc9087/WorkOutTrackerHW">* Workout Tracker Repo</a></p>
+                                <p id="repo"><a target="_blank" rel="noreferrer" href="https://github.com/brc9087/WorkOutTrackerHW">* Workout Tracker Repo</a></p>
                             </div>
                             <div className="col-md-1"></div>
 
 
                             <div className="col-md-3">
-                                <a href="https://brc9087.github.io/myapp/ ">
+                                <a target="_blank" rel="noreferrer" href="https://brc9087.github.io/myapp/ ">
                                     <img src={employee}
                                         className="card-img-top" alt="img-two" />
                                 </a>
                                 <p className="card-text">EMPLOYEE DIRECTORY REACT</p>
-                                <p id="repo"><a href="https://github.com/brc9087/EmployeeReactDirectory"
+                                <p id="repo"><a  target="_blank" rel="noreferrer" href="https://github.com/brc9087/EmployeeReactDirectory"
                                 >* Empoyee Directory React Repo </a></p>
                             </div>
                         
@@ -59,12 +59,12 @@ const portfolio = () => {
 
                             </div>
                             <div className="col-md-3">
-                                <a href="https://immense-waters-93242.herokuapp.com/">
+                                <a target="_blank" rel="noreferrer" href="https://immense-waters-93242.herokuapp.com/">
                                     <img src={burger}
                                         className="card-img-top" alt="img-one" />
                                 </a>
                                 <p className="card-text">EAT DA BURGER</p>
-                                <p id="repo"><a href="https://github.com/brc9087/Eat-Da-BurgerHW"
+                                <p id="repo"><a target="_blank" rel="noreferrer" href="https://github.com/brc9087/Eat-Da-BurgerHW"
                                 >* Eat Da Burger Repo</a></p>
                             </div>
                             <div className="col-md-1">
@@ -72,12 +72,12 @@ const portfolio = () => {
 
                             </div>
                             <div className="col-md-3">
-                                <a href="https://joemc9011.github.io/emorph/">
+                                <a  target="_blank" rel="noreferrer" href="https://joemc9011.github.io/emorph/">
                                     <img src={hole}
                                         className="card-img-top" alt="img-one" />
                                 </a>
                                 <p className="card-text"> HOLE IN THE WALL (project 1) </p>
-                                <p id="repo"><a href="https://github.com/brc9087/HoleInTheWall"
+                                <p id="repo"><a target="_blank" rel="noreferrer" href="https://github.com/brc9087/HoleInTheWall"
                                 >* Hole In The Wall Repo</a></p>
                                 <div className="col-md-1"></div>
                             </div>
@@ -87,12 +87,12 @@ const portfolio = () => {
                         <div className="row">
                             <div className="col-md-1"></div>
                             <div className="col-md-3">
-                                <a href="https://fast-dawn-07792.herokuapp.com/">
+                                <a target="_blank" rel="noreferrer" href="https://fast-dawn-07792.herokuapp.com/">
                                     <img src={nba}
                                         className="card-img-top" alt="img-one" />
                                 </a>
                                 <p className="card-text">MY TEAM (project 2)</p>
-                                <p id="repo"><a href="https://github.com/brc9087/MyTeam"
+                                <p id="repo"><a target="_blank" rel="noreferrer" href="https://github.com/brc9087/MyTeam"
                                 >* My Team Repo</a></p>
 
                             </div>
@@ -100,12 +100,12 @@ const portfolio = () => {
                             <div className="col-md-1"></div>
 
                             <div className="col-md-3">
-                                <a href="https://mighty-headland-17179.herokuapp.com/">
+                                <a target="_blank" rel="noreferrer" href="https://mighty-headland-17179.herokuapp.com/">
                                     <img src={note}
                                         className="card-img-top" alt="img-one" />
                                 </a>
                                 <p className="card-text">NOTETAKER APP</p>
-                                <p id="repo"><a href="https://github.com/brc9087/NoteTaker"
+                                <p id="repo"><a target="_blank" rel="noreferrer"  href="https://github.com/brc9087/NoteTaker"
                                 >* Notetaker App Repo</a></p>
                             </div>
                         </div>
