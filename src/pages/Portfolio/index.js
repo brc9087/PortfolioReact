@@ -12,6 +12,11 @@ import symps from "../../images/onlysymps.jpg"
 const styles = {
     back: {
         backgroundColor: "grey"
+    },
+    image: {
+        width: "100%",
+        height: "100%"
+
     }
 }
 
@@ -30,7 +35,7 @@ const portfolio = () => {
 
                             <div className="col-md-3">
                                 <a target="_blank" rel="noreferrer" href="https://stark-chamber-95181.herokuapp.com/">
-                                    <img src={symps}
+                                    <img style={styles.image} src={symps}
                                         className="card-img-top" alt="img-one" />
                                 </a>
                                 <p className="card-text">OnlySymps Project 3</p>
@@ -41,7 +46,7 @@ const portfolio = () => {
 
                             <div className="col-md-3">
                                 <a target="_blank" rel="noreferrer" href="https://brc9087.github.io/myapp/ ">
-                                    <img src={employee}
+                                    <img style={styles.image} src={employee}
                                         className="card-img-top" alt="img-two" />
                                 </a>
                                 <p className="card-text">EMPLOYEE DIRECTORY REACT</p>
@@ -59,7 +64,7 @@ const portfolio = () => {
                             </div>
                             <div className="col-md-3">
                                 <a target="_blank" rel="noreferrer" href="https://immense-waters-93242.herokuapp.com/">
-                                    <img src={burger}
+                                    <img style={styles.image} src={burger}
                                         className="card-img-top" alt="img-one" />
                                 </a>
                                 <p className="card-text">EAT DA BURGER</p>
@@ -72,7 +77,7 @@ const portfolio = () => {
                             </div>
                             <div className="col-md-3">
                                 <a target="_blank" rel="noreferrer" href="https://joemc9011.github.io/emorph/">
-                                    <img src={hole}
+                                    <img style={styles.image} src={hole}
                                         className="card-img-top" alt="img-one" />
                                 </a>
                                 <p className="card-text"> HOLE IN THE WALL (project 1) </p>
@@ -87,7 +92,7 @@ const portfolio = () => {
                             <div className="col-md-1"></div>
                             <div className="col-md-3">
                                 <a target="_blank" rel="noreferrer" href="https://fast-dawn-07792.herokuapp.com/">
-                                    <img src={nba}
+                                    <img style={styles.image} src={nba}
                                         className="card-img-top" alt="img-one" />
                                 </a>
                                 <p className="card-text">MY TEAM (project 2)</p>
@@ -100,7 +105,7 @@ const portfolio = () => {
 
                             <div className="col-md-3">
                                 <a target="_blank" rel="noreferrer" href="https://mighty-headland-17179.herokuapp.com/">
-                                    <img src={note}
+                                    <img style={styles.image} src={note}
                                         className="card-img-top" alt="img-one" />
                                 </a>
                                 <p className="card-text">NOTETAKER APP</p>
