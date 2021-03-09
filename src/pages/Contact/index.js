@@ -20,7 +20,7 @@ const Contact = () => {
                     <div style={styles.contact} className="gitProfile">
                         <p>GitHub Profile: <a target="_blank" rel="noreferrer" href="https://github.com/brc9087">
                             https://github.com/brc9087</a> </p>
-                        <p>Linkedin Profile: <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/feed/"
+                        <p>Linkedin Profile: <a target="_blank" rel="noreferrer" href="linkedin.com/in/brian-cardines-rn-bsn-acm-66b6bb19b"
                         >Linkedin Profile</a></p>
                         <p>Email Address: bcardines8@gmail.com</p>
                         <p>Phone Number:908-405-9820</p>

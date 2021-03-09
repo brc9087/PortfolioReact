@@ -1,12 +1,13 @@
 import React from "react";
 // import "../App.css";
 import 'bootstrap/dist/css/bootstrap.min.css';
-import workout from "../../images/workout.png";
+// import workout from "../../images/workout.png";
 import employee from "../../images/employeedirectory.png";
 import burger from "../../images/burger.png";
 import hole from "../../images/hole.png";
 import nba from "../../images/nba.png";
 import note from "../../images/note.png"
+import symps from "../../images/onlysymps.jpg"
 
 const styles = {
     back: {
@@ -20,9 +21,7 @@ const portfolio = () => {
             <div style={styles.back} className="container">
                 <div className="card">
                     <div className="card-header">
-                        <h3>
-                            Portfolio
-                    </h3>
+                        <h3>Portfolio</h3>
                     </div>
                     <div className="card-body">
                         <div className="row">
@@ -30,12 +29,12 @@ const portfolio = () => {
                             </div>
 
                             <div className="col-md-3">
-                                <a target="_blank" rel="noreferrer" href="https://boiling-cliffs-25283.herokuapp.com/">
-                                    <img src={workout}
+                                <a target="_blank" rel="noreferrer" href="https://stark-chamber-95181.herokuapp.com/">
+                                    <img src={symps}
                                         className="card-img-top" alt="img-one" />
                                 </a>
-                                <p className="card-text">WORKOUT TRACKER</p>
-                                <p id="repo"><a target="_blank" rel="noreferrer" href="https://github.com/brc9087/WorkOutTrackerHW">* Workout Tracker Repo</a></p>
+                                <p className="card-text">OnlySymps Project 3</p>
+                                <p id="repo"><a target="_blank" rel="noreferrer" href="https://github.com/brc9087/medapp">OnlySymps Repo</a></p>
                             </div>
                             <div className="col-md-1"></div>
 
@@ -46,10 +45,10 @@ const portfolio = () => {
                                         className="card-img-top" alt="img-two" />
                                 </a>
                                 <p className="card-text">EMPLOYEE DIRECTORY REACT</p>
-                                <p id="repo"><a  target="_blank" rel="noreferrer" href="https://github.com/brc9087/EmployeeReactDirectory"
+                                <p id="repo"><a target="_blank" rel="noreferrer" href="https://github.com/brc9087/EmployeeReactDirectory"
                                 >* Empoyee Directory React Repo </a></p>
                             </div>
-                        
+
                         </div>
                         <br></br>
                         <br></br>
@@ -72,7 +71,7 @@ const portfolio = () => {
 
                             </div>
                             <div className="col-md-3">
-                                <a  target="_blank" rel="noreferrer" href="https://joemc9011.github.io/emorph/">
+                                <a target="_blank" rel="noreferrer" href="https://joemc9011.github.io/emorph/">
                                     <img src={hole}
                                         className="card-img-top" alt="img-one" />
                                 </a>
@@ -105,7 +104,7 @@ const portfolio = () => {
                                         className="card-img-top" alt="img-one" />
                                 </a>
                                 <p className="card-text">NOTETAKER APP</p>
-                                <p id="repo"><a target="_blank" rel="noreferrer"  href="https://github.com/brc9087/NoteTaker"
+                                <p id="repo"><a target="_blank" rel="noreferrer" href="https://github.com/brc9087/NoteTaker"
                                 >* Notetaker App Repo</a></p>
                             </div>
                         </div>
